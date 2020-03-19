@@ -6,4 +6,3 @@ All workings for this assignment step is in sub-folder "14-javascript-challenge\
 
 ### Level 2: Multiple Search Categories (Optional)
 All workings for this assignment step is in sub-folder "14-javascript-challenge\UFO-level-2"
-
